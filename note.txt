@@ -14,6 +14,11 @@ khởi tạo dự án: git init ( tạo repo locol: mỗi dự án làm 1 lần 
 Đẩy code từ local lên remote: 3 bước
 git add -A
 git commit -m " create home.html"
-git push -u origin master
+git push -u origin master ( lần đầu) / git push (lần thứ 2)
+
+
+*Tạo nhánh ( khi code chức năng mới/ fix bug )
+
+git checkout -b name
 
 https://ohmyz.sh
