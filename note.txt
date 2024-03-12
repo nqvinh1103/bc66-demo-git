@@ -16,4 +16,7 @@ git add -A
 git commit -m " create home.html"
 git push -u origin master
 
+* Đưa code từ nhánh phụ về nhánh chính:
+git merge name ( tên nhánh phụ )
+
 https://ohmyz.sh
