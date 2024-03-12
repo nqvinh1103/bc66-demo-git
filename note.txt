@@ -5,4 +5,15 @@
 git config --global user.name "Your name"
 git config --global user.email "your@email.com"
 
+đẩy code từ máy lên github = push
+
+lấy code mới nhất từ github về máy = pull
+
 khởi tạo dự án: git init ( tạo repo locol: mỗi dự án làm 1 lần )
+
+Đẩy code từ local lên remote: 3 bước
+git add -A
+git commit -m " create home.html"
+git push -u origin master
+
+https://ohmyz.sh
