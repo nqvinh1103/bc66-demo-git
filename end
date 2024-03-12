@@ -1,0 +1,42 @@
+[33mcommit e91b49d6bb43e0501a0957aa681d0d8e98bd7b3f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morgin/master[m[33m)[m
+Merge: 204c359 23804e7
+Author: QVinhDev <vinhnq1103@gmail.com>
+Date:   Tue Mar 12 19:58:31 2024 +0700
+
+    Merge branch 'login'
+
+[33mcommit 204c359718540d3b6331a25c52cedf902aaa6950[m
+Author: QVinhDev <vinhnq1103@gmail.com>
+Date:   Tue Mar 12 19:57:41 2024 +0700
+
+    update note.txt
+
+[33mcommit 23804e72554d44e6abb56a0cd656e9d066bd30e7[m[33m ([m[1;31morgin/login[m[33m, [m[1;32mlogin[m[33m)[m
+Author: QVinhDev <vinhnq1103@gmail.com>
+Date:   Tue Mar 12 19:48:01 2024 +0700
+
+    update login.html
+
+[33mcommit dad1e9ef95b623059f1b88bf4e8f27b340d9466d[m
+Author: QVinhDev <vinhnq1103@gmail.com>
+Date:   Tue Mar 12 19:38:34 2024 +0700
+
+    create login.html
+
+[33mcommit dacb6e568b10835c372e4adea3c81fe62b36d5ef[m
+Author: QVinhDev <vinhnq1103@gmail.com>
+Date:   Tue Mar 12 19:21:54 2024 +0700
+
+    update 11.am
+
+[33mcommit 197897d13121d886747bfb64530190a234e7b34b[m
+Author: QVinhDev <vinhnq1103@gmail.com>
+Date:   Tue Mar 12 19:13:39 2024 +0700
+
+    add note
+
+[33mcommit 3f15708b8ecfcda0728c442715593aba51d7404f[m
+Author: QVinhDev <vinhnq1103@gmail.com>
+Date:   Tue Mar 12 18:59:23 2024 +0700
+
+    create home.html

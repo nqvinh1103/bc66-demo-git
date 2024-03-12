@@ -26,4 +26,5 @@ git checkout name
 * Đưa code từ nhánh phụ về nhánh chính:
 git merge name ( tên nhánh phụ )
 
+**git log: xem lịch sử commit
 https://ohmyz.sh
