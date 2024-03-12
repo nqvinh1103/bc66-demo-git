@@ -1,0 +1,8 @@
+*git: Version Control System ( phan mem quan ly code )
+*github: noi luu tru code online (drive, icloud)
+*Lien ket tai khoan github vao may (lam 1 lan duy nhat tren 1 may)
+
+git config --global user.name "Your name"
+git config --global user.email "your@email.com"
+
+khởi tạo dự án: git init ( tạo repo locol: mỗi dự án làm 1 lần )
