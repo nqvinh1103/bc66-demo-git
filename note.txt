@@ -11,6 +11,8 @@ lấy code mới nhất từ github về máy = pull
 
 khởi tạo dự án: git init ( tạo repo locol: mỗi dự án làm 1 lần )
 
+thêm remote: git remote add origin https://github.com/nqvinh1103/BC66---Portfolio.git
+
 Đẩy code từ local lên remote: 3 bước
 git add -A
 git commit -m " create home.html"
@@ -27,4 +29,5 @@ git checkout name
 git merge name ( tên nhánh phụ )
 
 **git log: xem lịch sử commit
+*git stash: đưa code về lại
 https://ohmyz.sh
